@@ -54,6 +54,15 @@
             </a>
           </li>
           <li class="nav-item has-treeview">
+            <a href="<?=base_url;?>/user" class="nav-link">
+              <i class="nav-icon fas fa-book"></i>
+              <p>
+                User
+                <!-- <i class="right fas fa-angle-left"></i> -->
+              </p>
+            </a>
+          </li>
+          <li class="nav-item has-treeview">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>
