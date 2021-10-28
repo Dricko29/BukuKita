@@ -55,7 +55,7 @@
           </li>
           <li class="nav-item has-treeview">
             <a href="<?=base_url;?>/user" class="nav-link">
-              <i class="nav-icon fas fa-book"></i>
+              <i class="nav-icon fas fa-person-booth"></i>
               <p>
                 User
                 <!-- <i class="right fas fa-angle-left"></i> -->
@@ -63,7 +63,7 @@
             </a>
           </li>
           <li class="nav-item has-treeview">
-            <a href="#" class="nav-link">
+            <a href="<?=base_url;?>/about" class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>
                 Tentang Saya
